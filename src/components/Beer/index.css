@@ -1,0 +1,21 @@
+.Beer {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  margin: 15px 30px;
+  border-bottom: 2px solid gray;
+}
+
+.image-div {
+  width: 75px;
+  display: flex;
+  justify-content: center;
+}
+
+.Beer div img {
+  height: 100px;
+}
+
+.Beer div {
+  text-align: start;
+}
